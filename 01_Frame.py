@@ -24,11 +24,9 @@ def frame_from_3_points(N, C_alpha, C):
     v1_length = vec_length(v1)
     e1 = [x / v1_length for x in v1]
 
-    dot = dot_product(e1, v2)
-    u2 = [x - y * dot for x, y in zip(v2, e1)]
-    u2_length = vec_length(u2)
-    e2 = [x / u2_length for x in u2]
-    e3 = cross_product(e1, e2)
+    '''
+    Please complete the code here
+    '''
 
     R = np.array([e1, e2, e3]).T
     t = C_alpha
