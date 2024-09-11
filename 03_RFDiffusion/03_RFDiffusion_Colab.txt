@@ -1,5 +1,5 @@
 Colab: https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/rf/examples/diffusion.ipynb
-Copy (Visualization on successful running on Colab): https://colab.research.google.com/drive/1QhRtwVeO_GhUm9IM8LhJP2okAysUrYzx?usp=sharing
+Copy (Visualization of successful running on Colab): https://colab.research.google.com/drive/1QhRtwVeO_GhUm9IM8LhJP2okAysUrYzx?usp=sharing
 
 
 
