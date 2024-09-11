@@ -1,0 +1,4 @@
+Colab: https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb
+Copy (Visualization on successful running on Colab): https://colab.research.google.com/drive/1E2tJJdrV-OZroMT61Zv0kWr7JBQQDqWG?usp=sharing
+
+query_sequence: PIAQIHILEGRSDEQKETLIREVSEAISRSLDAPLTSVRVIITEMAKGHFGIGGELASK

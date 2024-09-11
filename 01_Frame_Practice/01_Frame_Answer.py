@@ -41,3 +41,4 @@ if __name__ == '__main__':
     C = [1, -1, 2]
     R, t = frame_from_3_points(N, C_alpha, C)
     print(R)
+    print(t)
